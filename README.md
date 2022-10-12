@@ -21,4 +21,4 @@
 
 [![makerlife的基本信息](https://luogu-card.vercel.app/about?id=335621)](https://www.luogu.com.cn/user/335621)
 
-[![makerlife's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amakerlife&show_icons=true)](https://www.luogu.com.cn/user/335621)
+[![makerlife's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amakerlife&show_icons=true)](https://www.luogu.com.cn/user/335621) [![Join the chat at https://gitter.im/amakerlife/amakerlife](https://badges.gitter.im/amakerlife/amakerlife.svg)](https://gitter.im/amakerlife/amakerlife?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
